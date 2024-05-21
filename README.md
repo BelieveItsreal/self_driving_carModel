@@ -51,4 +51,8 @@ The system combines two components:
 - `bounding_boxes_car.txt`: Contains coordinates of detected cars.
 - `bounding_boxes_road.txt`: Contains coordinates of detected lane lines.
 
+## Screenshot
 
+![Car_detection](https://github.com/BelieveItsreal/self_driving_carModel/assets/96502713/b1788f21-d948-46c4-84cc-9590abbd36db)
+
+![road_detection](https://github.com/BelieveItsreal/self_driving_carModel/assets/96502713/12c6f4bf-2a94-4fed-bb5f-3afad4b4df5b)
