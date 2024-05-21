@@ -1,5 +1,5 @@
 # self_driving_carModel
-This project integrates a YOLOv8-based car detection model and a custom road detection model to create a self-driving car system capable of detecting cars and identifying lane lines on the road.
+This project integrates a YOLOv8-based car detection model and a custom road detection model combined together to create a self-driving car system capable of detecting cars and identifying lane lines on the road and can self drive.
 
 ## Main Code for Self-Driving Car Implementation
 
